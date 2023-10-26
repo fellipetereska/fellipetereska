@@ -5,9 +5,6 @@
 [![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/files/user/1017857767901476744?fuid=1017857767901476744)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/fellipetereska)
 
-
-![Fellipe Tereska GitHub stats](https://github-readme-stats.vercel.app/api?username=fellipetereska&show_icons=true)
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fellipetereska&layout=compact)
 
 
